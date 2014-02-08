@@ -8,5 +8,3 @@ These images are designed to be used as classroom posters for the UK 2014 Comput
 Every effort has been made to try to use copyright free images. 
 
 If you believe a copyrighted image has been used by mistake please contact the author.
-
-https://raw2.github.com/pddring/computing-keywords/master/low-quality/algorithm.png
